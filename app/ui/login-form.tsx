@@ -1,5 +1,5 @@
 
-import LoginButton from './LoginButton';
+import Loginbutton from './loginButton';
 import { lusitana } from '@/app/ui/fonts';
 import {
   AtSymbolIcon,
